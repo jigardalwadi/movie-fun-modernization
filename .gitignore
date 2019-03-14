@@ -1,6 +1,1 @@
-*.iml
-target
-classes
-build
-.idea
-.env
+*.imltargetclassesbuild.idea.env 
