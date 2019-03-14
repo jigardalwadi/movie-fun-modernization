@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="moviefun" target="1.8" />
+      <module name="org.superbiz.moviefun.main" target="1.8" />
+      <module name="org.superbiz.moviefun.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

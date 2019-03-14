@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.geronimo.components:geronimo-jaspi:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.geronimo.components/geronimo-jaspi/2.0.0/88e0679b41c755f9270ccc520cbca0bf96677b78/geronimo-jaspi-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.geronimo.components/geronimo-jaspi/2.0.0/a18fd5a6eeb451d6125b0b99572b11a4164cbf01/geronimo-jaspi-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

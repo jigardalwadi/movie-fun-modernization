@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-lightsail:1.11.74">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lightsail/1.11.74/4be2bd5639d063071d06a1261daa35e2590a1e06/aws-java-sdk-lightsail-1.11.74.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-lightsail/1.11.74/5d0a769fd87ef001d2ac86bb239194e2ff5a9551/aws-java-sdk-lightsail-1.11.74-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

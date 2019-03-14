@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:aws-java-sdk-cognitoidp:1.11.74">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidp/1.11.74/1bc8bdd006911ed74380d9464de9b419d2f54dcd/aws-java-sdk-cognitoidp-1.11.74.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-cognitoidp/1.11.74/e54ad5ee09da9c268b4616671d365bdfba5250d9/aws-java-sdk-cognitoidp-1.11.74-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

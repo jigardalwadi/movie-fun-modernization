@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/moviefun.iml" filepath="$PROJECT_DIR$/moviefun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.iml" filepath="$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.superbiz.moviefun.test.iml" />
     </modules>
   </component>
 </project>

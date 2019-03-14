@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.geronimo.specs:geronimo-osgi-locator:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.geronimo.specs/geronimo-osgi-locator/1.1/16e0be9a010525fd470b5ee9d6fc7b37bcba9f03/geronimo-osgi-locator-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.geronimo.specs/geronimo-osgi-locator/1.1/a13410b7bd5ef0d1df86ede3082b6ffe2779463f/geronimo-osgi-locator-1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
